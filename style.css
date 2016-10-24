@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "abuket";
+  src: url('SSF4 ABUKET.ttf');
+}
+@font-face {
+  font-family: "tron";
+  src: url('TRON.TTF')
+}
+
+body {
+  background-color: black;
+}
+.abuket {
+  text-align: center;
+  font: 36px "abuket";
+}
+
+.tron {
+  text-align: center;
+  font: 36px "tron";
+  text-shadow: 2px 2px 4px #00FEFE, -2px -2px 4px #00FEFE;
+}
+.tron-thin {
+  text-align: center;
+  font: 24px;
+  color:#00FEFE;
+}
